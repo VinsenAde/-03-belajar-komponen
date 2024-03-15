@@ -1,6 +1,7 @@
 import Profile from "../components/profile";
 import Image from "next/image";
 import { Gallery } from "@/components/gallery";
+import ToDoList from "@/components/bio";
 
 export default function Home() {
   return (
@@ -10,6 +11,10 @@ export default function Home() {
       </div>
 
       <Gallery />
+
+      <>
+      <ToDoList/>
+</>
     </main>
   );
 }

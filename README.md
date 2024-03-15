@@ -9,5 +9,18 @@
 
 Soal 1
 Ubah isi kode Home() sehingga dapat tampil seperti berikut dengan memanfaatkan komponen Profile() yang tadi sudah dibuat dari langkah 1 tersebut!
-![image](https://drive.google.com/uc?export=view&id=11FgiUjztCT4bhoPQhlkriGDB-i_eXLfIs)
+![image](https://drive.google.com/uc?export=view&id=1FgiUjztCT4bhoPQhlkriGDB-i_eXLfIs)
 I can use profile components easily by using <Profile/> tags
+
+Soal 2
+![image](https://drive.google.com/uc?export=view&id=1B9hKAdkd9oqMEoACuaOUARMtGTIzocRd)
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+tampilan tetap sama, namun bentuk code untuk kumpulan foto menjadi komponen, dapat digunakan lagi
+
+Soal 3
+
+![image](https://drive.google.com/uc?export=view&id=1Tk8C2fRumljV1t0zYjKluOQyGJyyz7Qf)
+
+Class harusnya ditulis dengan className
