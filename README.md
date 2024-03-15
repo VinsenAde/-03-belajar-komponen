@@ -30,6 +30,6 @@ Class harusnya ditulis dengan className
 
 ***Mengoper objek dalam JSX
 
-Soal Nomor 4
+Soal Nomor 4 & 5
 ![image](https://drive.google.com/uc?export=view&id=12tzc0isH1VLnNjhUXEKUvQeivuy5lu3C)
 
