@@ -24,3 +24,12 @@ Soal 3
 ![image](https://drive.google.com/uc?export=view&id=1Tk8C2fRumljV1t0zYjKluOQyGJyyz7Qf)
 
 Class harusnya ditulis dengan className
+
+**JavaScript di JSX Menggunakan Kurung Kurawal
+![image](https://drive.google.com/uc?export=view&id=1UARK_53D4eoZK2WOi8JJIHgshNNidALO)
+
+***Mengoper objek dalam JSX
+
+Soal Nomor 4
+![image](https://drive.google.com/uc?export=view&id=12tzc0isH1VLnNjhUXEKUvQeivuy5lu3C)
+
